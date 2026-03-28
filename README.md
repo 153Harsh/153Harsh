@@ -4,7 +4,7 @@
 
 # 👋 Harsh Maurya
 
-### 💻 Full Stack Developer | 🚀 MERN | 🤖 AI Builder
+### 💻 Full Stack Developer | 🚀 MERN | 🤖 AI Builder | Android App Developer
 
 <img src="https://komarev.com/ghpvc/?username=153Harsh&label=Profile%20views&color=0e75b6&style=flat" />
 
@@ -39,8 +39,10 @@
 
 ### 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
