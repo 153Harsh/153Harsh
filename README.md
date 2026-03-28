@@ -12,26 +12,21 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=harshmaurya153&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/harshmaurya153?style=for-the-badge&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=153Harsh&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/153Harsh?style=for-the-badge&color=0e75b6" />
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/harshmaurya153">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://ai-dental-assistent.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_Live_Project-AI_Dental_Assistant-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:your-email@example.com">
+<a href="mailto:harshmaurya153@gmail.com">
   <img src="https://img.shields.io/badge/📩_Hire_Me-Contact_Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshmaurya153&theme=algolia&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=153Harsh&theme=algolia&no-frame=true&margin-w=10" />
 
 </div>
 
