@@ -50,7 +50,14 @@
 
 ---
 
-### 🚀 Tools & Extras (🔥 Important)
+### 🤖 AI & Tools (🔥 Power Section)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge\&logo=brain\&logoColor=white)
+
+---
+
+### 🚀 Tools & Extras
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
