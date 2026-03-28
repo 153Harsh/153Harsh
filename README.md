@@ -1,19 +1,40 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Harsh+Maurya;Full+Stack+Developer;MERN+Stack+Expert;AI+App+Builder;Freelance+Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077B5&height=180&section=header&text=Harsh%20Maurya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-# 👋 Harsh Maurya
+<img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Specialist;AI+App+Builder;React+Native+Developer;Freelance+Developer;Open+to+Work+%26+Opportunities" />
 
-### 💻 Full Stack Developer | 🚀 MERN | 🤖 AI Builder | Android App Developer
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=153Harsh&label=Profile%20views&color=0e75b6&style=flat" />
+### 🚀 Building AI-powered products that solve real-world problems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/harshmaurya153)
-[![Portfolio](https://img.shields.io/badge/Live_Project-AI_Dental-green?style=for-the-badge\&logo=vercel)](https://ai-dental-assistent.vercel.app/)
+### 💻 MERN Stack • 🤖 AI Integration • 📱 Mobile Apps
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=harshmaurya153&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/harshmaurya153?style=for-the-badge&color=0e75b6" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/harshmaurya153">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://ai-dental-assistent.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_Live_Project-AI_Dental_Assistant-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/📩_Hire_Me-Contact_Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshmaurya153&theme=algolia&no-frame=true&margin-w=10" />
 
 </div>
 
----
 
 ## 🧠 About Me
 
@@ -50,7 +71,7 @@
 
 ---
 
-### 🤖 AI & Tools (🔥 Power Section)
+### 🤖 AI & Tools
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 ![AI Integration](https://img.shields.io/badge/AI_Integration-FF6F00?style=for-the-badge\&logo=brain\&logoColor=white)
