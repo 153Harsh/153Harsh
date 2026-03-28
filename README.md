@@ -34,12 +34,12 @@
 
 ## 🧠 About Me
 
-* 🚀 Full Stack Developer (MERN + React Native)
-* 💼 Completed **10+ Freelance Projects**
-* 🤖 Building **AI-powered applications**
-* 🎯 Goal: Remote job + own startup
+* 🚀 Full Stack Developer specializing in **MERN Stack & React Native**
+* 💼 Delivered **10+ real-world freelance projects** with client satisfaction
+* 🤖 Building **AI-powered web & mobile applications**
+* ⚡ Passionate about creating **scalable SaaS products**
+* 🎯 Actively seeking **Internships, Freelance, and Remote Opportunities**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -88,76 +88,109 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
 
-## 💼 Freelance Projects (🔥 Important Section)
+## 💼 Freelance Projects (🔥 Real-World Experience)
 
-## 💼 Overview
-Delivered 10+ real-world web and mobile applications using MERN stack, React Native, AI, and modern backend technologies.
+### 💼 Overview
+
+Delivered **10+ real-world web & mobile applications** using **MERN, React Native, and AI integrations** — focused on performance, scalability, and user experience.
 
 ---
 
-## 🧠 AI & Advanced Projects
+## 🧠 AI & Advanced Applications
 
 ### 📊 ChurnVision (AI App)
-- Customer churn prediction using ML models
-- Real-time predictions & analytics
-- Tech: Python, React Native, Flask
+
+* 🔍 Predicts customer churn using machine learning models
+* 📈 Real-time analytics dashboard for insights
+* ⚡ Built for data-driven business decisions
+* 🛠 Tech: Python, Flask, React Native
+
+---
 
 ### 🥗 AI Diet Planner
-- Personalized diet recommendation system
-- AI-based logic for meal suggestions
+
+* 🧠 Personalized diet recommendations using AI logic
+* 🍽 Dynamic meal suggestions based on user input
+* ⚡ Focus on health-tech automation
 
 ---
 
 ## 📱 Mobile Applications (React Native)
 
-### 🛡 CyberVigil App
-- Gamified cybersecurity learning platform
-- Missions, quizzes, and challenges
+### 🛡 CyberVigil
+
+* 🎮 Gamified cybersecurity learning platform
+* 🧩 Interactive missions, quizzes & challenges
+* 🎯 Designed for engaging user experience
+
+---
 
 ### 🧠 PsyGrow
-- Mental wellness tracking app with AI insights
+
+* 💡 Mental wellness tracking with AI insights
+* 📊 Mood analysis and habit tracking features
+
+---
 
 ### 👨‍👩‍👧 SafeKid Monitoring
-- Parental control app with tracking features
+
+* 🔒 Parental control system
+* 📍 Real-time tracking & activity monitoring
+
+---
 
 ### 🛠 Home Service App
-- Booking platform for household services
-- Real-time scheduling and tracking
+
+* 🏠 On-demand service booking platform
+* ⏱ Real-time scheduling & tracking system
 
 ---
 
 ## 🌐 Web Applications
 
 ### 🎨 Ventis
-- Creative marketplace for artists
+
+* 🎭 Marketplace for artists & creators
+* 💳 Supports digital product showcasing
+
+---
 
 ### 📰 NewsMonkey
-- News app with API integration
+
+* 🌍 News platform with API integration
+* ⚡ Fast and responsive UI
 
 ---
 
-## ⚡ Real-Time & Advanced Systems
+## ⚡ Real-Time Systems
 
 ### 🎥 Sync Video Stream
-- Real-time synchronized video streaming
-- Multi-user interaction + chat
 
-### 👻 Ghost Hunting System
-- Experimental real-time system project
+* 📡 Real-time synchronized video streaming
+* 💬 Multi-user interaction with chat
+
 ---
 
-## 🔒 Note
-Due to client confidentiality, source code for most freelance projects is private.  
-Project details are shared for demonstration purposes only.
+### 👻 Ghost Hunting System
+
+* 🧪 Experimental real-time system project
+* ⚡ Built for advanced system exploration
+
+---
+
+## 🔒 Confidential Projects
+
+> Some freelance projects are private due to client agreements.
+> Details shared here highlight **capabilities, not limitations**.
 
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=153Harsh&show_icons=true&theme=radical" height="150"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=153Harsh&theme=radical" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=153Harsh&show_icons=true&theme=radical&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=153Harsh&layout=compact&theme=radical&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=153Harsh&theme=radical&hide_border=true" height="150"/>
 
 </div>
 
@@ -165,36 +198,62 @@ Project details are shared for demonstration purposes only.
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=153Harsh&theme=react-dark" />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=153Harsh&theme=react-dark&hide_border=true" />
+
+</div>
 
 ---
+
 
 ## 🏆 Achievements
 
-* 🥇 1 time Hackathon winner
-* 💼 Freelance Developer
-* ⚡ Built real-world projects
+* 🥇 **Hackathon Winner** – Demonstrated problem-solving & rapid development skills
+* 💼 **Freelance Developer** – Delivered 10+ real-world client projects
+* ⚡ **Product Builder** – Built scalable web & mobile applications with modern tech
 
 ---
 
-## 🎯 What I Can Do For You (🔥 CLIENT SECTION)
+## 🎯 What I Can Do For You
 
-* 🌐 Build modern websites (React, Next.js)
-* 📱 Mobile apps (React Native)
-* 🤖 AI integrations (Chatbots, automation)
-* ⚡ Full-stack SaaS applications
+* 🌐 Build **modern, responsive websites** (React, Next.js)
+* 📱 Develop **cross-platform mobile apps** (React Native)
+* 🤖 Integrate **AI solutions** (chatbots, automation, smart features)
+* ⚡ Create **full-stack SaaS products** (end-to-end development)
 
 ---
 
 ## 📩 Contact Me
 
-* 📧 Email: harshmaurya153@gmail.com
-* 💼 LinkedIn: https://linkedin.com/in/harshmaurya153
+<div align="center">
+
+<a href="mailto:harshmaurya153@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/harshmaurya153">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://wa.me/917039709580">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br/><br/>
+
+📧 **Email:** [harshmaurya153@gmail.com](mailto:harshmaurya153@gmail.com)
+💼 **LinkedIn:** https://linkedin.com/in/harshmaurya153
+
+</div>
 
 ---
 
 <div align="center">
 
-🚀 *Open for Freelance | Internships | Remote Jobs*
+🚀 **Open for Freelance • Internships • Remote Opportunities**
+
+</div>
+
 
 </div>
