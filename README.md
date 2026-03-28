@@ -6,7 +6,7 @@
 
 ### 💻 Full Stack Developer | 🚀 MERN | 🤖 AI Builder
 
-<img src="https://komarev.com/ghpvc/?username=harshmaurya153&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=153Harsh&label=Profile%20views&color=0e75b6&style=flat" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/harshmaurya153)
 [![Portfolio](https://img.shields.io/badge/Live_Project-AI_Dental-green?style=for-the-badge\&logo=vercel)](https://ai-dental-assistent.vercel.app/)
@@ -79,9 +79,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshmaurya153&show_icons=true&theme=radical" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=153Harsh&show_icons=true&theme=radical" height="150"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshmaurya153&theme=radical" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=153Harsh&theme=radical" height="150"/>
 
 </div>
 
@@ -89,7 +89,7 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmaurya153&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=153Harsh&theme=react-dark" />
 
 ---
 
