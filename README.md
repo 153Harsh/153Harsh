@@ -22,7 +22,11 @@
 </a>
 
 <a href="mailto:harshmaurya153@gmail.com">
-  <img src="https://img.shields.io/badge/Contact-Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://wa.me/917039709580">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </div>
 
