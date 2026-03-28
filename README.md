@@ -127,7 +127,7 @@ Project details are shared for demonstration purposes only.
 
 ## 🏆 Achievements
 
-* 🥇 Hackathon Participant
+* 🥇 1 time Hackathon winner
 * 💼 Freelance Developer
 * ⚡ Built real-world projects
 
