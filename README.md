@@ -22,7 +22,7 @@
 </a>
 
 <a href="mailto:harshmaurya153@gmail.com">
-  <img src="https://img.shields.io/badge/📩_Hire_Me-Contact_Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contact-Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
 
