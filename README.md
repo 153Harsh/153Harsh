@@ -24,11 +24,6 @@
 <a href="mailto:harshmaurya153@gmail.com">
   <img src="https://img.shields.io/badge/📩_Hire_Me-Contact_Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=153Harsh&theme=algolia&no-frame=true&margin-w=10" />
-
 </div>
 
 
