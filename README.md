@@ -112,7 +112,7 @@
 
 ## 📩 Contact Me
 
-* 📧 Email: (add your email)
+* 📧 Email: harshmaurya153@gmail.com
 * 💼 LinkedIn: https://linkedin.com/in/harshmaurya153
 
 ---
