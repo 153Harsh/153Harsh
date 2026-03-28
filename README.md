@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Harsh Maurya
 
-<!--
-**153Harsh/153Harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN | React Native | AI Projects  
 
-Here are some ideas to get you started:
+## 💻 What I Do
+- Build full-stack web apps (MERN)
+- Develop mobile apps (React Native)
+- Create AI-powered solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Project
+🦷 AI Dental Assistant  
+https://ai-dental-assistent.vercel.app/
+
+## 🧠 Experience
+- Delivered 10+ freelance projects
+- Built SaaS-level applications
+- Worked with AI, mobile apps, and real-time systems
+
+## 🛠 Tech Stack
+JavaScript | TypeScript | React | Node.js | MongoDB | PostgreSQL | Supabase | Python
+
+## 📫 Connect With Me
+LinkedIn: https://linkedin.com/in/harshmaurya153
