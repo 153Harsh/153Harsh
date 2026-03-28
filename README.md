@@ -46,34 +46,66 @@
 
 ## 💼 Freelance Projects (🔥 Important Section)
 
-### 🏋️ Gym Website
-
-* 🔗 Live Demo: (Add your link here)
-* 💡 Features:
-
-  * Modern UI
-  * Membership plans
-  * Responsive design
+## 💼 Overview
+Delivered 10+ real-world web and mobile applications using MERN stack, React Native, AI, and modern backend technologies.
 
 ---
 
-### 🎮 GameZone Website
+## 🧠 AI & Advanced Projects
 
-* 🔗 Live Demo: (Add your link here)
-* 💡 Features:
+### 📊 ChurnVision (AI App)
+- Customer churn prediction using ML models
+- Real-time predictions & analytics
+- Tech: Python, React Native, Flask
 
-  * Game listing UI
-  * Interactive layout
-  * Mobile-friendly
+### 🥗 AI Diet Planner
+- Personalized diet recommendation system
+- AI-based logic for meal suggestions
+
+---
+
+## 📱 Mobile Applications (React Native)
+
+### 🛡 CyberVigil App
+- Gamified cybersecurity learning platform
+- Missions, quizzes, and challenges
+
+### 🧠 PsyGrow
+- Mental wellness tracking app with AI insights
+
+### 👨‍👩‍👧 SafeKid Monitoring
+- Parental control app with tracking features
+
+### 🛠 Home Service App
+- Booking platform for household services
+- Real-time scheduling and tracking
 
 ---
 
-### 🦷 AI Dental Assistant
+## 🌐 Web Applications
 
-* 🔗 https://ai-dental-assistent.vercel.app/
-* 🤖 AI-based dental diagnosis system
+### 🎨 Ventis
+- Creative marketplace for artists
+
+### 📰 NewsMonkey
+- News app with API integration
 
 ---
+
+## ⚡ Real-Time & Advanced Systems
+
+### 🎥 Sync Video Stream
+- Real-time synchronized video streaming
+- Multi-user interaction + chat
+
+### 👻 Ghost Hunting System
+- Experimental real-time system project
+---
+
+## 🔒 Note
+Due to client confidentiality, source code for most freelance projects is private.  
+Project details are shared for demonstration purposes only.
+
 
 ## 📊 GitHub Stats
 
